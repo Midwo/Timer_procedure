@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Aplication_apka_timer
+namespace Apka_procedury
 {
     static class Program
     {
