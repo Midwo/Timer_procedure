@@ -1,0 +1,9 @@
+C:\Users\micha\Desktop\Timer_procedure-master\Apka procedury\obj\Debug\Apka procedury.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\Timer_procedure-master\Apka procedury\obj\Debug\Apka_procedury.Form1.resources
+C:\Users\micha\Desktop\Timer_procedure-master\Apka procedury\obj\Debug\Apka_procedury.Properties.Resources.resources
+C:\Users\micha\Desktop\Timer_procedure-master\Apka procedury\obj\Debug\Apka procedury.csproj.GenerateResource.Cache
+C:\Users\micha\Desktop\Timer_procedure-master\Apka procedury\bin\Debug\Apka procedury.exe.config
+C:\Users\micha\Desktop\Timer_procedure-master\Apka procedury\bin\Debug\Apka procedury.exe
+C:\Users\micha\Desktop\Timer_procedure-master\Apka procedury\bin\Debug\Apka procedury.pdb
+C:\Users\micha\Desktop\Timer_procedure-master\Apka procedury\obj\Debug\Apka procedury.exe
+C:\Users\micha\Desktop\Timer_procedure-master\Apka procedury\obj\Debug\Apka procedury.pdb
