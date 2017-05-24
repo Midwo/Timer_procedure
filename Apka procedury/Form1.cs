@@ -35,8 +35,16 @@ namespace Apka_procedury
             
             if (System.DateTime.Now.ToLongTimeString() == textBox1.Text)
             {
-                claseprocedure.procedure("execute agent2214_midmax.dodaj_dzień");
-                label5.Text = "Status: wykonano procedury";
+                claseprocedure.procedure(yourData.executeCommand);
+
+                if (Error.statusError == 1)
+                {
+                    label5.Text = "Status: wystąpił błąd";
+                }
+                else
+                {
+                    label5.Text = "Status: wykonano procedury";
+                }
 
                 clasemail.sendmail();
             }
@@ -57,7 +65,7 @@ namespace Apka_procedury
         private void Form1_Load(object sender, EventArgs e)
         {
     
-
+         
         }
 
     }

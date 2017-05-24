@@ -9,12 +9,18 @@ namespace Apka_procedury
 {
     public class yourData
     {
+
+        // information email - password, from, to, subject
         public static string emailFrom = "your email";
         public static string describeEmail = "describe email";
         public static string emailTo = "email to";
         public static string EmailPassword = "your password";
         public static string Subject = "your sobject";
-        public static string connetionStringToDatabase = "your data connection string to database";
-        
+
+        //database - connection string and execture command
+        public static string executeCommand = "execute your procedure";
+
+        public static string connetionStringToDataBase = "your data connection string to database";
+
     }
 }
